@@ -3,7 +3,7 @@
 A professional-grade NSE stock market dashboard with AI predictions, technical analysis, live news and trading tools.
 
 ## 🔴 Live Demo
-👉 Coming soon on Streamlit Cloud
+(https://bullseye-4pxllljf3hpfw2d4dqfsek.streamlit.app/)
 
 ## 📊 Stocks Tracked
 | Company | Symbol |
