@@ -96,4 +96,4 @@ streamlit run app.py
 BullsEye is for educational purposes only. Not financial advice. Always do your own research before investing.
 
 ## 👨‍💻 Developer
-**Priyanshu** — Internship Project at Codec Technologies
+**Priyanshu** 
